@@ -1,4 +1,4 @@
-#Conteúdos da disciplina de Linguagem de Programação
+# Conteúdos da disciplina de Linguagem de Programação
 
-Linguagem: Python
+Linguagem: Python  
 Versão: 3.x
